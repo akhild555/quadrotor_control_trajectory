@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5922454-b490-4b5b-8150-207eb77c487e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YKJKNmeGLmBJd5y78MskEWPhgR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CIS 519/HW4/hw4" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="sandbox" type="PythonConfigurationType" factoryName="Python">
+      <module name="meam620-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Akhil\meam620-2020\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj1_3/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj1_3/code/sandbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5922454-b490-4b5b-8150-207eb77c487e" name="Default Changelist" comment="" />
+      <created>1582685287704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582685287704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1920" y="596" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582686412942">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="1920" y="596" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1582686412942" />
+    <state x="2510" y="971" key="#xdebugger.evaluate" timestamp="1583166682251">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="874" y="270" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1582942303793" />
+    <state x="2510" y="971" key="#xdebugger.evaluate/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1583166682251" />
+    <state x="2240" y="696" key="FileChooserDialogImpl" timestamp="1583092164864">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="2240" y="696" key="FileChooserDialogImpl/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1583092164864" />
+    <state width="549" height="755" key="GridCell.Tab.0.bottom" timestamp="1583349856229">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="549" height="755" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583349856229" />
+    <state width="626" height="755" key="GridCell.Tab.0.bottom/0.0.1600.880@0.0.1600.880" timestamp="1583023289228" />
+    <state width="1081" height="451" key="GridCell.Tab.0.bottom/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1583297889334" />
+    <state width="549" height="755" key="GridCell.Tab.0.center" timestamp="1583349856229">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="549" height="755" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583349856229" />
+    <state width="626" height="755" key="GridCell.Tab.0.center/0.0.1600.880@0.0.1600.880" timestamp="1583023289228" />
+    <state width="1081" height="451" key="GridCell.Tab.0.center/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1583297889334" />
+    <state width="549" height="755" key="GridCell.Tab.0.left" timestamp="1583349856227">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="549" height="755" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583349856227" />
+    <state width="626" height="755" key="GridCell.Tab.0.left/0.0.1600.880@0.0.1600.880" timestamp="1583023289228" />
+    <state width="1081" height="451" key="GridCell.Tab.0.left/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1583297889334" />
+    <state width="549" height="755" key="GridCell.Tab.0.right" timestamp="1583349856229">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="549" height="755" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583349856229" />
+    <state width="626" height="755" key="GridCell.Tab.0.right/0.0.1600.880@0.0.1600.880" timestamp="1583023289228" />
+    <state width="1081" height="451" key="GridCell.Tab.0.right/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1583297889334" />
+    <state width="549" height="755" key="GridCell.Tab.1.bottom" timestamp="1583349856230">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="549" height="755" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583349856230" />
+    <state width="626" height="755" key="GridCell.Tab.1.bottom/0.0.1600.880@0.0.1600.880" timestamp="1583023289231" />
+    <state width="1081" height="376" key="GridCell.Tab.1.bottom/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1583166818965" />
+    <state width="549" height="755" key="GridCell.Tab.1.center" timestamp="1583349856230">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="549" height="755" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1583349856230" />
+    <state width="626" height="755" key="GridCell.Tab.1.center/0.0.1600.880@0.0.1600.880" timestamp="1583023289230" />
+    <state width="1081" height="376" key="GridCell.Tab.1.center/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1583166818965" />
+    <state width="549" height="755" key="GridCell.Tab.1.left" timestamp="1583349856229">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="549" height="755" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1583349856229" />
+    <state width="626" height="755" key="GridCell.Tab.1.left/0.0.1600.880@0.0.1600.880" timestamp="1583023289230" />
+    <state width="1081" height="376" key="GridCell.Tab.1.left/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1583166818965" />
+    <state width="549" height="755" key="GridCell.Tab.1.right" timestamp="1583349856230">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="549" height="755" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1583349856230" />
+    <state width="626" height="755" key="GridCell.Tab.1.right/0.0.1600.880@0.0.1600.880" timestamp="1583023289231" />
+    <state width="1081" height="376" key="GridCell.Tab.1.right/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1583166818965" />
+    <state x="2123" y="435" width="672" height="678" key="search.everywhere.popup" timestamp="1582686438982">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="2123" y="435" width="672" height="678" key="search.everywhere.popup/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1582686438982" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/proj1_3/code/sandbox.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/proj1_3/code/sandbox.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7422959b-f61c-4031-b76c-003b394fd30d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X9JIguAPywyTaOuAwH53bD8aAA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RunAkhilRun" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Akhil\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sandbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7422959b-f61c-4031-b76c-003b394fd30d" name="Default Changelist" comment="" />
+      <created>1580452298334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580452298334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2599" y="135" key="#RunAkhilRun" timestamp="1580452488138">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2599" y="135" key="#RunAkhilRun/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1580452488138" />
+    <state x="2334" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580452465287">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1580452465287" />
+    <state x="2660" y="285" key="FileChooserDialogImpl" timestamp="1580452609107">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="285" key="FileChooserDialogImpl/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1580452609107" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1580452626115">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1580452626115" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1580452626115">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1580452626115" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1580452626115">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1580452626115" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1580452626115">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1580452626115" />
+  </component>
+</project>
