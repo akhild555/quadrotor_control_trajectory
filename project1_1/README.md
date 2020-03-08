@@ -9,3 +9,10 @@ Cube Flight Path         |  Animation
 :-------------------------:|:-------------------------:
 ![](animation/cube_path.png)        |  ![](animation/cube.gif)
 
+My lab team and I had the opportunity to test our code on a real quadcopter. In the gif below my controller code was used along with
+a team member's waypoint trajectory generator. The quadrotor can be seen tracing out a square.
+
+Quadcopter Tracing Square     
+:-------------------------:
+![](animation/real.gif)
+
