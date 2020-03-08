@@ -7,8 +7,8 @@ A few maps with A* calculated paths are shown below.
 
 Empty         |  Saw
 :-------------------------:|:-------------------------:
-![](Images/empty.png)        |  ![](animation/saw.png)
+![](Images/empty.png)        |  ![](Images/saw.png)
 
 Forest         |  Window
 :-------------------------:|:-------------------------:
-![](Images/forest.png)        |  ![](animation/window.png)
+![](Images/forest.png)        |  ![](Images/window.png)
