@@ -62,7 +62,7 @@ class WaypointTraj(object):
         times = np.cumsum(times)
         # times = times.reshape(-1, 1)
         times = np.insert(times, 0, 0, axis=0)  # add t = 0 to first element of time vector
-        times = times / 1.2
+        times = times / 1
 
 
         # Calculate quadcopter position, vel, acc based on time
